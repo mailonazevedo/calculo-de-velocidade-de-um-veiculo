@@ -40,3 +40,4 @@
 # debug information files
 *.dwo
 /.vs
+/primeirosPassos/x64/Debug
